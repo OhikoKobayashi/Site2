@@ -1,6 +1,6 @@
 # Site2
 <html>
-    <img src="/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
+    <img src="1.png" height="50px"/>
     <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0">История</a>
     <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств</h1>
     <img src="/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/>
